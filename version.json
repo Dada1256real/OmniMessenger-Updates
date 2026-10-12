@@ -1,1 +1,6 @@
-
+{
+  "latestVersion": "1.0.1",
+  "releaseNotes": "OMNIMESSENGER ENTERPRISE v1.0.1\n\n• Added Superb Mode Omni-Channel Blast.\n• Added Intelligent File Attachment engine.\n• UI/UX Enhancements and speed optimizations.",
+  "downloadUrl": "https://github.com/Dada1256real/OmniMessenger-Updates/releases/download/v1.0.1/OmniMessenger.Update.v1.0.1.zip",
+  "isMandatory": false
+}
